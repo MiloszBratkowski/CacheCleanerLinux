@@ -1,0 +1,2 @@
+Main-Class: pl.techbrat.linux.Main
+Manifest-Version: 1.0
