@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CacheCleanerLinux">
+    <output-path>$PROJECT_DIR$/../../system_nawadniania</output-path>
+    <root id="archive" name="CacheCleanerLinux.jar">
+      <element id="module-output" name="CacheCleanerLinux" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
